@@ -1,4 +1,4 @@
-<img align="left" height="254" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="254" src="perfil_01.jpg"  />
 
 ###
 
@@ -19,7 +19,6 @@
 ###
 
 <div align="right">
-  <img src="perfil_01.jpg" height="150" alt="stats graph"  />
 </div>
 
 ###
