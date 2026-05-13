@@ -1,37 +1,27 @@
-```html
+```md
 <div align="left">
 
 <img 
-  align="left"
-  height="250"
+  align="left" 
+  height="250" 
   src="perfil_01.jpg"
-  style="
-    border-radius: 50%;
-    padding: 6px;
-    border: 4px solid #00BFFF;
-    box-shadow: 0 0 25px #00BFFF;
-    margin-right: 25px;
-  "
+  style="border-radius:50%; border:5px solid #00BFFF; padding:5px; box-shadow:0 0 25px #00BFFF; margin-right:25px;"
 />
 
-<h2 align="left">Olá, eu sou</h2>
+<h2>Olá, eu sou</h2>
 
-<h1 align="left">
-  Jeniffer Carvalho 👋
-</h1>
+<h1>Jeniffer Carvalho 👋</h1>
 
-<h3 align="left">
-  💻 Desenvolvedora de Software
-</h3>
+<h3>💻 Desenvolvedora de Software</h3>
 
-<p align="left">
-Apaixonada por tecnologia, desenvolvimento de soluções eficientes e criação de experiências digitais incríveis.<br><br>
+<p>
+Apaixonada por tecnologia, desenvolvimento de soluções eficientes e criação de experiências digitais incríveis. 🚀
+</p>
 
-Tenho interesse em desenvolvimento de software, suporte técnico e inovação, sempre buscando aprender novas tecnologias e evoluir profissionalmente. 🚀<br><br>
-
-✨ Focada em transformar ideias em projetos funcionais, intuitivos e modernos.<br>
-🛠️ Experiência com suporte, resolução de problemas e atendimento técnico.<br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas.
+<p>
+🛠️ Experiência com suporte técnico, resolução de problemas e atendimento ao usuário.<br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+✨ Sempre buscando aprender novas tecnologias e evoluir profissionalmente.
 </p>
 
 </div>
@@ -58,7 +48,7 @@ Tenho interesse em desenvolvimento de software, suporte técnico e inovação, s
 
 ---
 
-<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -67,6 +57,8 @@ Tenho interesse em desenvolvimento de software, suporte técnico e inovação, s
 </div>
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
