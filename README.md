@@ -1,56 +1,65 @@
-<img align="left" height="254" src="perfil_01.jpg"  />
+```html
+<img align="left" height="250" src="perfil_01.jpg" />
 
-###
+<h1 align="left">Olá, eu sou Jeniffer Carvalho 👋</h1>
 
-<br clear="both">
+<h3 align="left">💻 Desenvolvedora de Software</h3>
 
-<h6 align="left">Olá, eu sou<br><br>Jeniffer Carvalho 👋<br><br> Desenvolvedora de Software 💻<br><br>Apaixonada por tecnologia, desenvolvimento de soluções eficientes e criação de experiências digitais incríveis.<br>Tenho interesse em desenvolvimento de software, suporte técnico e inovação, sempre buscando aprender novas tecnologias e evoluir profissionalmente. 🚀<br><br>✨ Focada em transformar ideias em projetos funcionais, intuitivos e modernos.<br>🛠️ Experiência com suporte, resolução de problemas e atendimento técnico.<br>📚 Estudante de Análise e Desenvolvimento de Sistemas.</h6>
+<p align="left">
+Apaixonada por tecnologia, desenvolvimento de soluções eficientes e criação de experiências digitais modernas e intuitivas. 🚀
+</p>
 
-###
+<p align="left">
+🛠️ Experiência com suporte técnico, resolução de problemas e atendimento ao usuário.<br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+✨ Sempre buscando aprender novas tecnologias e evoluir profissionalmente.
+</p>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="20" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="28" height="20" alt="whatsapp logo"  />
+
+<a href="https://linkedin.com/in/SEU-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/55SEUNUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="right">
-</div>
-
-###
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,postgres,mysql,git,github,postman" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📈 GitHub Stats
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=75&section=footer&reversal=false&fontSize=78&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:00C2FF"/>
+
+</div>
+```
