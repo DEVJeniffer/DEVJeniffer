@@ -19,7 +19,7 @@
 ###
 
 <div align="right">
-  <img src="perfil_01" height="150" alt="stats graph"  />
+  <img src="perfil_01.jpg" height="150" alt="stats graph"  />
 </div>
 
 ###
