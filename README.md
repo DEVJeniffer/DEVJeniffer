@@ -1,41 +1,30 @@
-````md
-<div align="center">
+<table>
+<tr>
 
-<img width="180" src="https://avatars.githubusercontent.com/u/00000000?v=4" />
+<td width="35%">
+
+<img src="perfil_01jpg" width="250px"/>
+
+</td>
+
+<td width="65%">
 
 # Jeniffer Carvalho
 
-```css
-Software Developer
-Front-end & Back-end
-ADS Student
-```
+### Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;Passionate+about+technology;Always+learning+new+technologies" />
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="55%">
-
-### About
-
-Software Developer focused on modern web development.
+ADS Student focused on modern web development.
 
 Passionate about technology, interfaces, clean design and innovation.
 
-This GitHub is where I share projects, studies and my evolution as a developer.
+Building modern web experiences with Front-end & Back-end technologies.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=3B82F6&width=500&lines=Front-end+Developer;Back-end+Developer;Always+learning+new+technologies" />
 
 </td>
 
-<td width="45%">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
-
-</td>
 </tr>
 </table>
 
@@ -46,6 +35,20 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github&theme=dark" />
+
+</div>
+
+---
+
+# Development Setup
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6"/>
+
+<img src="https://img.shields.io/badge/System-Windows-111827?style=for-the-badge&logo=windows&logoColor=3B82F6"/>
+
+<img src="https://img.shields.io/badge/Focus-Web%20Development-111827?style=for-the-badge&logo=googlechrome&logoColor=3B82F6"/>
 
 </div>
 
@@ -84,4 +87,4 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer"/>
 
 </div>
-````
+```
