@@ -1,17 +1,17 @@
-```md id="techreadmepro"
+````md
 <div align="center">
 
-<img src="SUA_FOTO_AQUI" width="170px" style="border-radius:50%; border:4px solid #3B82F6;" />
+<img width="180" src="https://avatars.githubusercontent.com/u/00000000?v=4" />
 
 # Jeniffer Carvalho
 
-Software Developer • Web Development • Tech Enthusiast
+```css
+Software Developer
+Front-end & Back-end
+ADS Student
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Front-end+%26+Back-end+Developer;Building+modern+web+experiences;Always+learning+new+technologies" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;Passionate+about+technology;Always+learning+new+technologies" />
 
 </div>
 
@@ -21,11 +21,11 @@ Software Developer • Web Development • Tech Enthusiast
 <tr>
 <td width="55%">
 
-## About
+### About
 
-Software Developer and ADS student focused on modern web development.
+Software Developer focused on modern web development.
 
-Passionate about technology, interfaces, performance and creating clean digital experiences.
+Passionate about technology, interfaces, clean design and innovation.
 
 This GitHub is where I share projects, studies and my evolution as a developer.
 
@@ -33,7 +33,7 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 
 <td width="45%">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -51,42 +51,28 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 
 ---
 
-## Development Environment
+# GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Editor-VSCode-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/System-Windows-0F172A?style=for-the-badge&logo=windows&logoColor=3B82F6"/>
-
-<img src="https://img.shields.io/badge/Focus-Web%20Development-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## GitHub Stats
+# Connect
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/jeniffercarvalho" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/jeniffercarvalho">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jeniffercarvalho2025@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -98,4 +84,4 @@ This GitHub is where I share projects, studies and my evolution as a developer.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer"/>
 
 </div>
-```
+````
