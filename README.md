@@ -2,16 +2,28 @@
 
 ---
 
+<div align="center">
+
+<img src="perfil_01.jpg" width="170" style="
+border-radius: 50%;
+border: 4px solid #3b82f6;
+box-shadow: 0 0 25px #3b82f6;
+"/>
+
+</div>
+
+---
+
 ## 👩‍💻 Sobre mim
 
 💻 Desenvolvedora de Software  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Apaixonada por tecnologia e inovação  
-🌐 Foco em desenvolvimento web (Front-end & Back-end)  
-📚 Sempre aprendendo e criando projetos modernos  
+🚀 Apaixonada por tecnologia, inovação e criação de soluções digitais  
+🌐 Foco em desenvolvimento Web (Front-end & Back-end)  
+📚 Evoluindo todos os dias com novos projetos e desafios  
 
-✨ Seja bem-vinda(o) ao meu GitHub!  
-Aqui compartilho minha evolução na programação.
+✨ **Seja bem-vindo(a) ao meu universo tech!**  
+Aqui compartilho minha jornada na programação e evolução como desenvolvedora.
 
 ---
 
@@ -34,11 +46,11 @@ Aqui compartilho minha evolução na programação.
 ## 🌐 Redes Sociais
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jeniffercarvalho2025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 ---
