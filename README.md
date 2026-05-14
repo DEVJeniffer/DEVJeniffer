@@ -15,7 +15,7 @@
 <tr>
 <td width="35%">
 
-<img src="perfil_01jpg" width="220px" style="border-radius: 50%;" alt="Foto de perfil"/>
+<img src="perfil_01.jpg" width="220px" style="border-radius: 50%;" alt="Foto de perfil"/>
 
 </td>
 
