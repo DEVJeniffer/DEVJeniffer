@@ -1,11 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Jeniffer Carvalho 👋
-
-💻 Desenvolvedora de Software  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Apaixonada por tecnologia, inovação e desenvolvimento web  
-📚 Sempre aprendendo novas tecnologias e criando projetos criativos  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=Jeniffer%20Carvalho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20de%20Software%20%F0%9F%92%BB&descAlignY=58"/>
 
 </div>
 
@@ -13,69 +8,57 @@
 
 <table>
 <tr>
-<td width="35%">
+<td width="38%" align="center">
 
-<img src="perfil_01.jpg" width="220px" style="border-radius: 50%;" alt="Foto de perfil"/>
+<img src="perfil_01.jpg" width="250px" style="border-radius:50%; border:4px solid #2563eb;" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=300&lines=Desenvolvedora+de+Software;Front-end+Developer;Tech+Lover+%F0%9F%9A%80;Sempre+aprendendo+novas+tecnologias"/>
 
 </td>
 
-<td width="65%">
+<td width="62%">
 
-## ✨ Sobre mim
+# 👋 Olá, eu sou Jeniffer Carvalho
 
-Olá! Seja bem-vindo(a) ao meu perfil do GitHub 🚀  
+### 💻 Desenvolvedora de Software  
+### 🎓 Estudante de ADS  
+### 🚀 Apaixonada por tecnologia e inovação  
 
-Sou apaixonada por tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas e criar soluções modernas e eficientes.  
+<br>
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas e tenho interesse em:
+💜 Bem-vindo(a) ao meu perfil!  
 
-- 🌐 Desenvolvimento Web  
-- 💻 Programação Front-end  
-- ⚙️ Back-end e APIs  
-- 📱 Tecnologia e inovação  
-- 🎨 Interfaces modernas e criativas  
+Sou apaixonada por desenvolvimento de software, design moderno e criação de experiências digitais inovadoras.  
+Estou sempre estudando novas tecnologias e desenvolvendo projetos criativos para evoluir cada vez mais na área tech.
 
 ---
 
-## 🚀 Tecnologias
+## ⚡ Tech Stack
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,mysql" />
 
 </div>
 
 ---
 
-## 🌎 Redes sociais
+## 🌐 Conecte-se comigo
 
 <div align="left">
 
-<a href="https://linkedin.com/in/seulink" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/SEULINK" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000"/>
 </a>
 
-<a href="https://instagram.com/seuuser" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/SEUUSER" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000"/>
 </a>
 
-<a href="mailto:seuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000"/>
 </a>
 
 </div>
@@ -86,13 +69,33 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e tenho interesse em:
 
 ---
 
-## 📊 Estatísticas GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🔥 Atividade
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=FFFFFF"/>
 
 </div>
 
@@ -100,6 +103,6 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e tenho interesse em:
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
 
 </div>
