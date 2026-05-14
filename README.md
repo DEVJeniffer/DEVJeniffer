@@ -2,38 +2,18 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ## 👩‍💻 Sobre mim
 
 💻 Desenvolvedora de Software  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 Apaixonada por tecnologia e inovação  
 🌐 Foco em desenvolvimento web (Front-end & Back-end)  
-📚 Sempre evoluindo e construindo projetos reais  
+📚 Sempre aprendendo e criando projetos modernos  
 
-<br>
-
-✨ Seja bem-vindo(a) ao meu GitHub!  
+✨ Seja bem-vinda(o) ao meu GitHub!  
 Aqui compartilho minha evolução na programação.
 
 ---
-
-## 🌐 Redes Sociais
-
-<a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:jeniffercarvalho2025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-    </td>
-
-    <td width="50%" valign="top">
 
 ## ⚡ Tecnologias
 
@@ -47,20 +27,20 @@ Aqui compartilho minha evolução na programação.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
----
-
-## 🔥 Streak
-
 <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
 
-    </td>
-  </tr>
-</table>
+---
+
+## 🌐 Redes Sociais
+
+<a href="https://www.linkedin.com/in/jeniffercarvalho">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jeniffercarvalho2025@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
-
-</div>
