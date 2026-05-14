@@ -4,7 +4,7 @@
 
 <!-- CABEÇALHO COM FOTO À ESQUERDA -->
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_AVATAR_ID" align="left" width="180" style="border-radius: 50%; margin-right: 20px; border: 4px solid #3B82F6;">
+  <img src="perfil_01.jpg" align="left" width="180" style="border-radius: 50%; margin-right: 20px; border: 4px solid #3B82F6;">
   <h1>Olá, eu sou a Jeniffer! 👋</h1>
   <strong>Desenvolvedora Full Stack | Rio de Janeiro</strong><br><br>
   Transformando desafios em soluções digitais elegantes e eficientes. Apaixonada por React, Node.js e pela criação de interfaces que encantam o usuário.
