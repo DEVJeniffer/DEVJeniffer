@@ -1,60 +1,65 @@
-# Olá, eu sou Jeniffer Carvalho 👋
-### Desenvolvedora Full Stack
+<table border="0">
+  <tr>
+    <td width="250" align="center" valign="top">
+      <img src="perfil_01.jpg">
+      <br><br>
+      <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/React/React.png" width="40" alt="React">
+      <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/NodeJS/NodeJS.png" width="40" alt="NodeJS">
+    </td>
+    <td valign="top">
+      <h1>Jeniffer Carvalho</h1>
+      <h3>Full Stack Developer • Rio de Janeiro</h3>
+      <p>Transformando linhas de código em experiências digitais modernas e eficientes.</p>
+      <p align="left">
+        <a href="https://linkedin.com/in/jeniffercarvalho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:contato@jeniffercarvalho.dev"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-007ACC?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+<br>
 
-- 🚀 Apaixonada por construir soluções eficientes e experiências incríveis.
-- 💻 Focada em desenvolvimento web e boas práticas de código.
-- 📚 Sempre aprendendo e compartilhando conhecimento.
-
-<br/>
-
-## 🛠 Tecnologias & Ferramentas
+## 💻 Tech Stack
 ---
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="40"> | <img src="https://skillicons.dev/icons?i=css" width="40"> | <img src="https://skillicons.dev/icons?i=js" width="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40"> | <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> |
-| **HTML5** | **CSS3** | **JavaScript** | **TypeScript** | **React** | **Next.js** |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=express" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> |
-| **Node.js** | **Express** | **Tailwind** | **Git** | **MySQL** | **Docker** |
+<div align="center">
+  <!-- Desenhos minimalistas de tecnologia -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mysql,docker&theme=light" />
+</div>
 
-<br/>
-
-## 📊 Estatísticas do GitHub
----
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeniffercarvalho&show_icons=true&theme=transparent&title_color=007ACC&text_color=333&icon_color=007ACC&border_color=007ACC" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniffercarvalho&layout=compact&theme=transparent&title_color=007ACC&text_color=333&border_color=007ACC" />
-</p>
-
-<br/>
+<br>
 
 ## 🚀 Projetos em Destaque
 ---
+<!-- Layout limpo com ícones de pasta/desenho -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1085/1085810.png" width="20"> **PreEntrevistaCV**<br>
+      <small>Gestão de perfis profissionais para recrutadores.</small>
+    </td>
+    <td width="50%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1085/1085810.png" width="20"> **Site Nutricionista**<br>
+      <small>Landing page de alta conversão para área da saúde.</small>
+    </td>
+  </tr>
+</table>
 
-### 🔹 [PreEntrevistaCV](https://github.com/jeniffercarvalho/PreEntrevistaCV)
-Aplicação desenvolvida para apresentar perfis de candidatos a recrutadores de forma profissional.
-- **Stacks:** React, Node.js, MySQL[cite: 1].
+<br>
 
-### 🔹 [Site Nutricionista - Ana Clara](https://github.com/jeniffercarvalho/Site-Nutricionista)
-Website profissional focado em captação de clientes online para área da saúde[cite: 1].
-- **Stacks:** React, Tailwind CSS[cite: 1].
-
-<br/>
-
-## 📫 Onde me encontrar
+## 📊 Atividade
 ---
-<p align="left">
-  <a href="https://linkedin.com/in/jeniffercarvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:contato@jeniffercarvalho.dev"><img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://jeniffercarvalho.dev"><img src="https://img.shields.io/badge/Portfólio-FFFFFF?style=for-the-badge&logo=react&logoColor=007ACC" /></a>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeniffercarvalho&bg_color=ffffff&color=3B82F6&line=3B82F6&point=1D4ED8&area=true&hide_border=true" />[cite: 1]
 </p>
 
+<br>
+
 ---
-> "Código é como humor. Quando você precisa explicar, é porque é ruim." — *Cory House*[cite: 1]
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%22C%C3%B3digo+%C3%A9+como+humor...+%22" />
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=2&section=footer" />
 </p>
