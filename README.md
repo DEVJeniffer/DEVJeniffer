@@ -2,56 +2,48 @@
 
 ---
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<img src="perfil_01.jpg" width="170" style="
-border-radius: 50%;
-border: 4px solid #3b82f6;
-box-shadow: 0 0 25px #3b82f6;
-"/>
+  <!-- FOTO -->
+  <img src="perfil_01.jpg" width="150"
+  style="border-radius: 50%; border: 3px solid #3b82f6; box-shadow: 0 0 15px #3b82f6;" />
+
+  <!-- TEXTO -->
+  <div>
+
+  ## 👩‍💻 Jeniffer Carvalho
+
+  💻 Desenvolvedora de Software  
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+  🌐 Foco em Desenvolvimento Web (Front-end & Back-end)  
+  🚀 Apaixonada por tecnologia e inovação  
+
+  ✨ Seja bem-vinda(o) ao meu GitHub!  
+  Aqui compartilho minha evolução como desenvolvedora.
+
+  <br>
+
+  🖥️ **Tech Stack:**
+  - ⚙️ HTML | CSS | JavaScript  
+  - ⚛️ React | Node.js  
+  - 🗄️ MySQL | Git | GitHub  
+
+  </div>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
-
-💻 Desenvolvedora de Software  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Apaixonada por tecnologia, inovação e criação de soluções digitais  
-🌐 Foco em desenvolvimento Web (Front-end & Back-end)  
-📚 Evoluindo todos os dias com novos projetos e desafios  
-
-✨ **Seja bem-vindo(a) ao meu universo tech!**  
-Aqui compartilho minha jornada na programação e evolução como desenvolvedora.
-
----
-
 ## ⚡ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,mysql" width="320"/>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Conecte-se comigo
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
-
----
-
-## 🌐 Redes Sociais
-
-<a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jeniffercarvalho2025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+💼 LinkedIn → linkedin.com/in/jeniffercarvalho  
+📧 Email → jeniffercarvalho2025@gmail.com  
 
 ---
 
