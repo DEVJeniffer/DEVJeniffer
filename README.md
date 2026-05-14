@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  🎮 **GAME OVER para perfis sem graça!** 🎮
 </div>
 
 <div align="center">
